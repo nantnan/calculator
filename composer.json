@@ -1,0 +1,15 @@
+{
+    "name": "nantnan/calculator",
+    "authors": [
+        {
+            "name": "nantnan",
+            "email": "am_amp00@msn.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+      "psr-4":{
+        "nantnan\\calculator\\": "src/"   
+      }
+    }
+}
